@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-airbagguy-autotrim"
+description = "Auto-trims the empty border around a subject using alpha, a flat background color, or a mask, with padding and an optional shared crop for batches."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/AirbagGuy/ComfyUI-AirbagGuyAutoTrim.git"
+
+[tool.comfy]
+PublisherId = "airbagguy"
+DisplayName = "AirbagGuy's Auto Trim"
+Icon = ""
