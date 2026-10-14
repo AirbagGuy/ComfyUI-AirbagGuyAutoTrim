@@ -11,13 +11,13 @@ It finds the subject in this order:
 
 ## Install
 
-**ComfyUI Manager:** search for "AirbagGuy Auto Trim", or load a workflow that uses it and click *Install Missing Custom Nodes*.
+**ComfyUI Manager (Install via Git URL):** open the Manager, choose *Install via Git URL*, paste `https://github.com/AirbagGuy/ComfyUI-AirbagGuyAutoTrim`, then restart ComfyUI. (If Git URL installs are blocked, set `security_level = weak` in the Manager's `config.ini`, or use the manual install below.)
 
 **Manual:** clone this repo into `ComfyUI/custom_nodes/` and restart ComfyUI.
 
 ```
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_GITHUB_NAME/ComfyUI-AirbagGuyAutoTrim
+git clone https://github.com/AirbagGuy/ComfyUI-AirbagGuyAutoTrim
 ```
 
 No extra Python packages are needed.

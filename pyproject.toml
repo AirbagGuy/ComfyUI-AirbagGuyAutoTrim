@@ -6,9 +6,9 @@ license = { file = "LICENSE" }
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/AirbagGuy/ComfyUI-AirbagGuyAutoTrim.git"
+Repository = "https://github.com/AirbagGuy/ComfyUI-AirbagGuyAutoTrim"
 
 [tool.comfy]
-PublisherId = "airbagguy"
-DisplayName = "AirbagGuy's Auto Trim"
+PublisherId = "YOUR_PUBLISHER_ID"
+DisplayName = "AirbagGuy Auto Trim"
 Icon = ""
